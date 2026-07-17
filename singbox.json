@@ -134,54 +134,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-      "server": "198.41.208.138",
-      "server_port": 443,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-      "server": "104.19.32.11",
-      "server_port": 2053,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-      "server": "104.17.63.194",
+      "tag": "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+      "server": "104.16.157.99",
       "server_port": 2083,
       "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
       "transport": {
@@ -203,8 +157,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-      "server": "198.41.209.116",
+      "tag": "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+      "server": "108.162.198.191",
       "server_port": 2096,
       "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
       "transport": {
@@ -226,238 +180,8 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-      "server": "173.245.59.34",
-      "server_port": 8443,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-      "server": "104.17.146.91",
-      "server_port": 2083,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-      "server": "104.18.33.32",
-      "server_port": 2053,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-      "server": "104.19.32.216",
-      "server_port": 2096,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-      "server": "173.245.58.93",
-      "server_port": 2083,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-      "server": "91.193.58.60",
-      "server_port": 2096,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-      "server": "188.164.248.229",
-      "server_port": 2053,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-      "server": "162.159.39.144",
-      "server_port": 2083,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-      "server": "173.245.58.17",
-      "server_port": 2083,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-      "server": "198.41.208.58",
-      "server_port": 443,
-      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nova.hivpn.workers.dev"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nova.hivpn.workers.dev",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-      "server": "104.18.33.240",
+      "tag": "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+      "server": "104.17.212.113",
       "server_port": 2087,
       "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
       "transport": {
@@ -479,9 +203,285 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]",
-      "server": "8.35.211.196",
+      "tag": "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+      "server": "104.26.13.246",
+      "server_port": 2083,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+      "server": "104.17.214.81",
+      "server_port": 2096,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+      "server": "104.19.34.66",
+      "server_port": 2083,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+      "server": "104.18.33.215",
       "server_port": 8443,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+      "server": "172.66.2.192",
+      "server_port": 2083,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+      "server": "188.164.248.173",
+      "server_port": 2053,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+      "server": "162.159.42.22",
+      "server_port": 2096,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+      "server": "104.18.33.56",
+      "server_port": 8443,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+      "server": "173.245.58.203",
+      "server_port": 8443,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+      "server": "173.245.59.87",
+      "server_port": 2096,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+      "server": "104.16.156.77",
+      "server_port": 2087,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+      "server": "172.67.69.237",
+      "server_port": 8443,
+      "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "nova.hivpn.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "nova.hivpn.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 108.162.198.178:443 [VLESS]",
+      "server": "108.162.198.178",
+      "server_port": 443,
       "uuid": "8d566622-dfdb-40ea-883c-cc1cbb3ed3ea",
       "transport": {
         "path": "/",
@@ -511,22 +511,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ]
     },
     {
@@ -534,22 +534,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -560,22 +560,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ]
     },
     {
@@ -583,22 +583,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ]
     },
     {
@@ -634,22 +634,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ]
     },
     {
@@ -665,22 +665,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ]
     },
     {
@@ -691,22 +691,22 @@
         "📊 0.00GB / 9999GB (0%)  |  📅 2099-01-01",
         "DIRECT",
         "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.138:443 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.11:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.63.194:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.209.116:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.59.34:8443 [VLESS]",
-        "سرویس رایگان نوا 104.17.146.91:2083 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.32:2053 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.216:2096 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.93:2083 [VLESS]",
-        "سرویس رایگان نوا 91.193.58.60:2096 [VLESS]",
-        "سرویس رایگان نوا 188.164.248.229:2053 [VLESS]",
-        "سرویس رایگان نوا 162.159.39.144:2083 [VLESS]",
-        "سرویس رایگان نوا 173.245.58.17:2083 [VLESS]",
-        "سرویس رایگان نوا 198.41.208.58:443 [VLESS]",
-        "سرویس رایگان نوا 104.18.33.240:2087 [VLESS]",
-        "سرویس رایگان نوا 8.35.211.196:8443 [VLESS]"
+        "سرویس رایگان نوا 104.16.157.99:2083 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.191:2096 [VLESS]",
+        "سرویس رایگان نوا 104.17.212.113:2087 [VLESS]",
+        "سرویس رایگان نوا 104.26.13.246:2083 [VLESS]",
+        "سرویس رایگان نوا 104.17.214.81:2096 [VLESS]",
+        "سرویس رایگان نوا 104.19.34.66:2083 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.215:8443 [VLESS]",
+        "سرویس رایگان نوا 172.66.2.192:2083 [VLESS]",
+        "سرویس رایگان نوا 188.164.248.173:2053 [VLESS]",
+        "سرویس رایگان نوا 162.159.42.22:2096 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.56:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.58.203:8443 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.87:2096 [VLESS]",
+        "سرویس رایگان نوا 104.16.156.77:2087 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.237:8443 [VLESS]",
+        "سرویس رایگان نوا 108.162.198.178:443 [VLESS]"
       ]
     },
     {
@@ -720,14 +720,14 @@
       "server_port": 4233,
       "local_address": [
         "172.16.0.2/32",
-        "2606:4700:110:8a16:46cf:2070:6e7b:3a67/128"
+        "2606:4700:110:8834:776f:7a8f:891b:35db/128"
       ],
-      "private_key": "T3wd+mJX61/XxmzHVQg9cUT2fwM+H5o01M5RO9FAboY=",
+      "private_key": "H/X0MWD0EbMEpQxtxi/vDQ/cNPT5QWp8E5CsaRKmgJs=",
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
       "reserved": [
-        12,
-        80,
-        243
+        98,
+        126,
+        233
       ],
       "mtu": 1280,
       "detour": "🚀 节点选择"
