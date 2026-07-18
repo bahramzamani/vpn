@@ -44,23 +44,23 @@ proxies:
     mtu: 1280
     dialer-proxy: "🚀 节点选择"
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
-  - {name: "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]", server: nova.hivpn.workers.dev, port: 443, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]", server: 104.17.184.101, port: 2083, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.35.211.54:2083 [SS]", server: 8.35.211.54, port: 2083, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
-  - {name: "سرویس رایگان نوا 8.35.211.107:2053 [VLESS]", server: 8.35.211.107, port: 2053, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]", server: 91.193.58.54, port: 2083, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 162.159.38.28:2096 [SS]", server: 162.159.38.28, port: 2096, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
-  - {name: "سرویس رایگان نوا 104.17.61.163:2087 [VLESS]", server: 104.17.61.163, port: 2087, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]", server: 104.16.243.212, port: 2096, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 188.164.248.30:8443 [SS]", server: 188.164.248.30, port: 8443, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
-  - {name: "سرویس رایگان نوا 162.159.38.28:2087 [VLESS]", server: 162.159.38.28, port: 2087, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 198.41.223.213:443 [TROJAN]", server: 198.41.223.213, port: 443, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 162.159.42.208:2053 [SS]", server: 162.159.42.208, port: 2053, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
-  - {name: "سرویس رایگان نوا 104.16.155.137:443 [VLESS]", server: 104.16.155.137, port: 443, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]", server: 173.245.59.29, port: 2053, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.62.91:2053 [SS]", server: 104.17.62.91, port: 2053, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
-  - {name: "سرویس رایگان نوا 104.16.158.48:2053 [VLESS]", server: 104.16.158.48, port: 2053, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
-  - {name: "سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]", server: 198.41.209.29, port: 8443, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]", server: nova.hivpn.workers.dev, port: 443, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: ios, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]", server: 172.67.73.33, port: 2087, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.99.91:2053 [SS]", server: 104.17.99.91, port: 2053, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
+  - {name: "سرویس رایگان نوا 91.193.59.196:443 [VLESS]", server: 91.193.59.196, port: 443, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: ios, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]", server: 104.17.111.216, port: 2053, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 173.245.58.237:2096 [SS]", server: 173.245.58.237, port: 2096, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
+  - {name: "سرویس رایگان نوا 188.164.248.144:443 [VLESS]", server: 188.164.248.144, port: 443, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: ios, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]", server: 162.159.47.238, port: 2053, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.223.174:2083 [SS]", server: 198.41.223.174, port: 2083, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
+  - {name: "سرویس رایگان نوا 198.41.209.48:2087 [VLESS]", server: 198.41.209.48, port: 2087, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: ios, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.67.74.224:443 [TROJAN]", server: 172.67.74.224, port: 443, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.17.116:2096 [SS]", server: 104.17.17.116, port: 2096, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
+  - {name: "سرویس رایگان نوا 104.18.33.159:2087 [VLESS]", server: 104.18.33.159, port: 2087, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: ios, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.34.163:443 [TROJAN]", server: 104.19.34.163, port: 443, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.62.214:443 [SS]", server: 104.17.62.214, port: 443, type: ss, cipher: aes-128-gcm, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, plugin: v2ray-plugin, plugin-opts: {mode: websocket, host: nova.hivpn.workers.dev, path: "/proxyip\\=149.248.199.173?enc\\=aes-128-gcm", tls: true, mux: false, skip-cert-verify: false}}
+  - {name: "سرویس رایگان نوا 104.17.145.139:2096 [VLESS]", server: 104.17.145.139, port: 2096, type: vless, uuid: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, tls: true, skip-cert-verify: false, servername: nova.hivpn.workers.dev, client-fingerprint: ios, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
+  - {name: "سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]", server: 91.193.58.30, port: 2087, type: trojan, password: 8d566622-dfdb-40ea-883c-cc1cbb3ed3ea, sni: nova.hivpn.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /proxyip=149.248.199.173, headers: {Host: nova.hivpn.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -72,22 +72,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]
-      - سرویس رایگان نوا 8.35.211.54:2083 [SS]
-      - سرویس رایگان نوا 8.35.211.107:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]
-      - سرویس رایگان نوا 162.159.38.28:2096 [SS]
-      - سرویس رایگان نوا 104.17.61.163:2087 [VLESS]
-      - سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]
-      - سرویس رایگان نوا 188.164.248.30:8443 [SS]
-      - سرویس رایگان نوا 162.159.38.28:2087 [VLESS]
-      - سرویس رایگان نوا 198.41.223.213:443 [TROJAN]
-      - سرویس رایگان نوا 162.159.42.208:2053 [SS]
-      - سرویس رایگان نوا 104.16.155.137:443 [VLESS]
-      - سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]
-      - سرویس رایگان نوا 104.17.62.91:2053 [SS]
-      - سرویس رایگان نوا 104.16.158.48:2053 [VLESS]
-      - سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]
+      - سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]
+      - سرویس رایگان نوا 104.17.99.91:2053 [SS]
+      - سرویس رایگان نوا 91.193.59.196:443 [VLESS]
+      - سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]
+      - سرویس رایگان نوا 173.245.58.237:2096 [SS]
+      - سرویس رایگان نوا 188.164.248.144:443 [VLESS]
+      - سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]
+      - سرویس رایگان نوا 198.41.223.174:2083 [SS]
+      - سرویس رایگان نوا 198.41.209.48:2087 [VLESS]
+      - سرویس رایگان نوا 172.67.74.224:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.17.116:2096 [SS]
+      - سرویس رایگان نوا 104.18.33.159:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.34.163:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.62.214:443 [SS]
+      - سرویس رایگان نوا 104.17.145.139:2096 [VLESS]
+      - سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -95,44 +95,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]
-      - سرویس رایگان نوا 8.35.211.54:2083 [SS]
-      - سرویس رایگان نوا 8.35.211.107:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]
-      - سرویس رایگان نوا 162.159.38.28:2096 [SS]
-      - سرویس رایگان نوا 104.17.61.163:2087 [VLESS]
-      - سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]
-      - سرویس رایگان نوا 188.164.248.30:8443 [SS]
-      - سرویس رایگان نوا 162.159.38.28:2087 [VLESS]
-      - سرویس رایگان نوا 198.41.223.213:443 [TROJAN]
-      - سرویس رایگان نوا 162.159.42.208:2053 [SS]
-      - سرویس رایگان نوا 104.16.155.137:443 [VLESS]
-      - سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]
-      - سرویس رایگان نوا 104.17.62.91:2053 [SS]
-      - سرویس رایگان نوا 104.16.158.48:2053 [VLESS]
-      - سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]
+      - سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]
+      - سرویس رایگان نوا 104.17.99.91:2053 [SS]
+      - سرویس رایگان نوا 91.193.59.196:443 [VLESS]
+      - سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]
+      - سرویس رایگان نوا 173.245.58.237:2096 [SS]
+      - سرویس رایگان نوا 188.164.248.144:443 [VLESS]
+      - سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]
+      - سرویس رایگان نوا 198.41.223.174:2083 [SS]
+      - سرویس رایگان نوا 198.41.209.48:2087 [VLESS]
+      - سرویس رایگان نوا 172.67.74.224:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.17.116:2096 [SS]
+      - سرویس رایگان نوا 104.18.33.159:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.34.163:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.62.214:443 [SS]
+      - سرویس رایگان نوا 104.17.145.139:2096 [VLESS]
+      - سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]
-      - سرویس رایگان نوا 8.35.211.54:2083 [SS]
-      - سرویس رایگان نوا 8.35.211.107:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]
-      - سرویس رایگان نوا 162.159.38.28:2096 [SS]
-      - سرویس رایگان نوا 104.17.61.163:2087 [VLESS]
-      - سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]
-      - سرویس رایگان نوا 188.164.248.30:8443 [SS]
-      - سرویس رایگان نوا 162.159.38.28:2087 [VLESS]
-      - سرویس رایگان نوا 198.41.223.213:443 [TROJAN]
-      - سرویس رایگان نوا 162.159.42.208:2053 [SS]
-      - سرویس رایگان نوا 104.16.155.137:443 [VLESS]
-      - سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]
-      - سرویس رایگان نوا 104.17.62.91:2053 [SS]
-      - سرویس رایگان نوا 104.16.158.48:2053 [VLESS]
-      - سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]
+      - سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]
+      - سرویس رایگان نوا 104.17.99.91:2053 [SS]
+      - سرویس رایگان نوا 91.193.59.196:443 [VLESS]
+      - سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]
+      - سرویس رایگان نوا 173.245.58.237:2096 [SS]
+      - سرویس رایگان نوا 188.164.248.144:443 [VLESS]
+      - سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]
+      - سرویس رایگان نوا 198.41.223.174:2083 [SS]
+      - سرویس رایگان نوا 198.41.209.48:2087 [VLESS]
+      - سرویس رایگان نوا 172.67.74.224:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.17.116:2096 [SS]
+      - سرویس رایگان نوا 104.18.33.159:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.34.163:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.62.214:443 [SS]
+      - سرویس رایگان نوا 104.17.145.139:2096 [VLESS]
+      - سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -140,22 +140,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]
-      - سرویس رایگان نوا 8.35.211.54:2083 [SS]
-      - سرویس رایگان نوا 8.35.211.107:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]
-      - سرویس رایگان نوا 162.159.38.28:2096 [SS]
-      - سرویس رایگان نوا 104.17.61.163:2087 [VLESS]
-      - سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]
-      - سرویس رایگان نوا 188.164.248.30:8443 [SS]
-      - سرویس رایگان نوا 162.159.38.28:2087 [VLESS]
-      - سرویس رایگان نوا 198.41.223.213:443 [TROJAN]
-      - سرویس رایگان نوا 162.159.42.208:2053 [SS]
-      - سرویس رایگان نوا 104.16.155.137:443 [VLESS]
-      - سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]
-      - سرویس رایگان نوا 104.17.62.91:2053 [SS]
-      - سرویس رایگان نوا 104.16.158.48:2053 [VLESS]
-      - سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]
+      - سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]
+      - سرویس رایگان نوا 104.17.99.91:2053 [SS]
+      - سرویس رایگان نوا 91.193.59.196:443 [VLESS]
+      - سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]
+      - سرویس رایگان نوا 173.245.58.237:2096 [SS]
+      - سرویس رایگان نوا 188.164.248.144:443 [VLESS]
+      - سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]
+      - سرویس رایگان نوا 198.41.223.174:2083 [SS]
+      - سرویس رایگان نوا 198.41.209.48:2087 [VLESS]
+      - سرویس رایگان نوا 172.67.74.224:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.17.116:2096 [SS]
+      - سرویس رایگان نوا 104.18.33.159:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.34.163:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.62.214:443 [SS]
+      - سرویس رایگان نوا 104.17.145.139:2096 [VLESS]
+      - سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -182,22 +182,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]
-      - سرویس رایگان نوا 8.35.211.54:2083 [SS]
-      - سرویس رایگان نوا 8.35.211.107:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]
-      - سرویس رایگان نوا 162.159.38.28:2096 [SS]
-      - سرویس رایگان نوا 104.17.61.163:2087 [VLESS]
-      - سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]
-      - سرویس رایگان نوا 188.164.248.30:8443 [SS]
-      - سرویس رایگان نوا 162.159.38.28:2087 [VLESS]
-      - سرویس رایگان نوا 198.41.223.213:443 [TROJAN]
-      - سرویس رایگان نوا 162.159.42.208:2053 [SS]
-      - سرویس رایگان نوا 104.16.155.137:443 [VLESS]
-      - سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]
-      - سرویس رایگان نوا 104.17.62.91:2053 [SS]
-      - سرویس رایگان نوا 104.16.158.48:2053 [VLESS]
-      - سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]
+      - سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]
+      - سرویس رایگان نوا 104.17.99.91:2053 [SS]
+      - سرویس رایگان نوا 91.193.59.196:443 [VLESS]
+      - سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]
+      - سرویس رایگان نوا 173.245.58.237:2096 [SS]
+      - سرویس رایگان نوا 188.164.248.144:443 [VLESS]
+      - سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]
+      - سرویس رایگان نوا 198.41.223.174:2083 [SS]
+      - سرویس رایگان نوا 198.41.209.48:2087 [VLESS]
+      - سرویس رایگان نوا 172.67.74.224:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.17.116:2096 [SS]
+      - سرویس رایگان نوا 104.18.33.159:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.34.163:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.62.214:443 [SS]
+      - سرویس رایگان نوا 104.17.145.139:2096 [VLESS]
+      - سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -210,22 +210,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا nova.hivpn.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.17.184.101:2083 [TROJAN]
-      - سرویس رایگان نوا 8.35.211.54:2083 [SS]
-      - سرویس رایگان نوا 8.35.211.107:2053 [VLESS]
-      - سرویس رایگان نوا 91.193.58.54:2083 [TROJAN]
-      - سرویس رایگان نوا 162.159.38.28:2096 [SS]
-      - سرویس رایگان نوا 104.17.61.163:2087 [VLESS]
-      - سرویس رایگان نوا 104.16.243.212:2096 [TROJAN]
-      - سرویس رایگان نوا 188.164.248.30:8443 [SS]
-      - سرویس رایگان نوا 162.159.38.28:2087 [VLESS]
-      - سرویس رایگان نوا 198.41.223.213:443 [TROJAN]
-      - سرویس رایگان نوا 162.159.42.208:2053 [SS]
-      - سرویس رایگان نوا 104.16.155.137:443 [VLESS]
-      - سرویس رایگان نوا 173.245.59.29:2053 [TROJAN]
-      - سرویس رایگان نوا 104.17.62.91:2053 [SS]
-      - سرویس رایگان نوا 104.16.158.48:2053 [VLESS]
-      - سرویس رایگان نوا 198.41.209.29:8443 [TROJAN]
+      - سرویس رایگان نوا 172.67.73.33:2087 [TROJAN]
+      - سرویس رایگان نوا 104.17.99.91:2053 [SS]
+      - سرویس رایگان نوا 91.193.59.196:443 [VLESS]
+      - سرویس رایگان نوا 104.17.111.216:2053 [TROJAN]
+      - سرویس رایگان نوا 173.245.58.237:2096 [SS]
+      - سرویس رایگان نوا 188.164.248.144:443 [VLESS]
+      - سرویس رایگان نوا 162.159.47.238:2053 [TROJAN]
+      - سرویس رایگان نوا 198.41.223.174:2083 [SS]
+      - سرویس رایگان نوا 198.41.209.48:2087 [VLESS]
+      - سرویس رایگان نوا 172.67.74.224:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.17.116:2096 [SS]
+      - سرویس رایگان نوا 104.18.33.159:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.34.163:443 [TROJAN]
+      - سرویس رایگان نوا 104.17.62.214:443 [SS]
+      - سرویس رایگان نوا 104.17.145.139:2096 [VLESS]
+      - سرویس رایگان نوا 91.193.58.30:2087 [TROJAN]
 rules:
 # PHISHING BLOCK RULES
   - GEOSITE,category-phishing,REJECT
